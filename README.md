@@ -11,7 +11,7 @@
 
 
 ### 关于我  
-- -hi，本科毕业于[成都锦城学院](http://www.scujcc.edu.cn/)，研究生毕业于[石家庄铁道大学](https://www.stdu.edu.cn/)
+- hi，本科毕业于[成都锦城学院](http://www.scujcc.edu.cn/)，研究生毕业于[石家庄铁道大学](https://www.stdu.edu.cn/)
 - 目前就职于[理想汽车](https://www.lixiang.com/#li)，framework研发工程师转至公共能力研发工程师(framework目前无法胜任)
 - 我将持续学习Android应用相关技术，随着学习的深入将会逐步学习framework相关知识  
   
@@ -34,7 +34,7 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="80%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=baijiangLai&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
